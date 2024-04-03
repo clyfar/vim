@@ -58,3 +58,4 @@ if !exists("g:ycm_semantic_triggers")
   let g:ycm_semantic_triggers = {}
 endif
 au BufRead,BufNewFile *.ts   setfiletype typescript
+set mouse=a
